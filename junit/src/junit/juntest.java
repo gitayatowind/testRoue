@@ -12,7 +12,8 @@ public class juntest {
 	@Before
 	public void setup() {
 		cal = new Calculator();
-		System.out.println("Setup");
+		
+		System.out.println("Setup2");
 	}
 	
 	@Test
